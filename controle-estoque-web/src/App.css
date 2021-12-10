@@ -1,0 +1,26 @@
+.App-menu-icon{
+    font-size: 2.5rem;
+    color: #888;
+    margin-top: 2rem;
+}
+
+.App-row{
+    display: flex;
+    flex-direction: column;
+}
+
+.App-side-bar{
+    width: 7rem;
+    height: 100vh;
+    background-color: #DDD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3rem;
+}
+
+.App-container{
+    display: flex;
+    background-color: #fff;
+    width: 100%;
+}

@@ -1,0 +1,31 @@
+.usuario-content{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 5rem;
+}
+
+.usuario-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.usuario-right{
+    display: flex;
+    flex-direction:column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.usuario-right-row{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.bc{
+    background-color:rebeccapurple ;
+}
